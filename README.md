@@ -1,2 +1,2 @@
 # Enron-Email-Project
-Enron Datasets - POI Classifications
+Project Website: http://www.sfu.ca/~skhaksho/
